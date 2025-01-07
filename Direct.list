@@ -8,6 +8,9 @@ DOMAIN-SUFFIX,lanzov.com
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,mirror
+DOMAIN-KEYWORD,miui
+DOMAIN-KEYWORD,xiaomi
+
 
 
 
