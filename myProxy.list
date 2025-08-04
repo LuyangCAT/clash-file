@@ -1,4 +1,8 @@
 # 我的代理补充列表
+#域名匹配-视频采集
+DOMAIN,jkunzyapi.com
+DOMAIN,api.souavzy.vip
+DOMAIN,api.bwzyz.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,gstatic.com
