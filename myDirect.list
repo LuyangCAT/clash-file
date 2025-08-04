@@ -21,6 +21,7 @@ SRC-IP-CIDR,192.168.31.90/32   #	Redmi8A-玉琴
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,dyttzyapi.com
 
 
 # 域名关键字匹配
