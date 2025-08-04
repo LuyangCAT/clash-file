@@ -18,6 +18,30 @@ SRC-IP-CIDR,192.168.31.90/32   #	Redmi8A-玉琴
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # 我的自定义直连域名
+#域名匹配-视频采集网站
+DOMAIN,caiji.dyttzyapi.com
+DOMAIN,json.heimuer.xyz
+DOMAIN,cj.rycjapi.com
+DOMAIN,bfzyapi.com
+DOMAIN,tyyszy.com
+DOMAIN,ffzy5.tv
+DOMAIN,360zy.com
+DOMAIN,caiji.maotaizy.cc
+DOMAIN,wolongzyw.com
+DOMAIN,jszyapi.com
+DOMAIN,dbzy.tv
+DOMAIN,mozhuazy.com
+DOMAIN,www.mdzyapi.com
+DOMAIN,api.zuidapi.com
+DOMAIN,m3u8.apiyhzy.com
+DOMAIN,api.wujinapi.me
+DOMAIN,wwzy.tv
+DOMAIN,ikunzyapi.com
+DOMAIN,cj.lziapi.com
+DOMAIN,zy.xmm.hk
+
+
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
