@@ -4,6 +4,10 @@ DOMAIN,jkunzyapi.com
 DOMAIN,api.souavzy.vip
 DOMAIN,api.bwzyz.com
 
+#台湾流媒体
+DOMAIN-KEYWORD,hinet.net
+DOMAIN-KEYWORD,iill
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,discord.gg
