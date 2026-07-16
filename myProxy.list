@@ -18,6 +18,8 @@ DOMAIN-SUFFIX,google.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,6868
+DOMAIN-KEYWORD,garyshare
+DOMAIN-KEYWORD,dpdns
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
